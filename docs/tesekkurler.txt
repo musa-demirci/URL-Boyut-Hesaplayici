@@ -1,0 +1,1 @@
+Bu uygulamanın hazırlanmasında yapay zekâ araçlarından yararlanılmıştır. Logo yapay zekâ ile üretilmiştir; uygulamanın tasarımı ve geliştirmesi tarafımdan ( musa-demirci ) gerçekleştirilmiştir.

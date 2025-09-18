@@ -1,0 +1,37 @@
+Bu uygulama, Excel (.xlsx) veya WordPress WXR (.xml) dosyalarındaki URL'lerin dosya boyutlarını toplu olarak kontrol etmenizi sağlar. Web sitesi yöneticileri, SEO uzmanları ve içerik editörleri için pratik ve güçlü bir çözümdür.
+
+Desteklenen Dosya Formatları:
+  • Excel Çalışma Kitabı (.xlsx): URL'lerin belirtilen sütunda yer aldığı Excel dosyaları
+  • WordPress WXR (.xml): WordPress WXR export dosyaları (medya dosyaları ve içerikteki URL'ler otomatik tespit edilir)
+
+Özellikler:
+  • Dosyalardaki tüm URL'leri otomatik olarak tespit eder ve boyutlarını MB cinsinden hesaplar.
+  • Her URL için detaylı bilgiler sunar: dosya adı, uzunluk, uzantı, boyut (MB) ve durum kodu.
+  • Paralel işlem sayesinde yüzlerce URL'yi hızla kontrol edebilir.
+  • İşlem sırasında gerçek zamanlı ilerleme durumu ve tahmini kalan süre gösterir.
+  • İnternet bağlantısı kesilirse otomatik olarak bekler ve kullanıcıya seçenekler sunar.
+  • Sonuçları Excel formatında (.xlsx) kaydeder ve hyperlink özelliği ile URL'lere kolay erişim sağlar.
+  • Sonuç dosyasında filtreleme ve sıralama yapılabilir.
+  • İşlem tamamlandığında sonuç dosyası, dosyanın kaydedildiği konumda gösterilir.
+
+Çıktı Dosyası İçeriği:
+  • Dosya URL'si: Kontrol edilen URL (tıklanabilir hyperlink)
+  • Dosya adı: URL'den çıkarılan dosya adı (uzantısız)
+  • Uzunluk: Dosya adının karakter uzunluğu
+  • Uzantı: Dosyanın uzantısı (jpg, png, pdf vb.)
+  • Boyut (MB): Dosyanın megabyte cinsinden boyutu
+  • Durum: HTTP durum kodu (200=OK, 404=Bulunamadı vb.)
+
+Nasıl Kullanılır?
+  • Girdi dosyası: "Gözat" butonuna tıklayıp .xlsx veya .xml dosyanızı seçin.
+  • URL sütun adı: Excel dosyaları için URL'lerin bulunduğu sütun adını girin (örn: "URL").
+  • Çıktı klasörü: Sonuç dosyasının kaydedileceği klasörü seçin.
+  • URL Ön Sayım: İsteğe bağlı olarak dosyadaki toplam URL sayısını öğrenebilirsiniz.
+  • Başlat: İşlemi başlatın ve ilerlemeyi takip edin.
+
+İpuçları:
+  • İşlem sırasında girdi dosyasını kapatın (Excel'de açıksa hata alabilirsiniz).
+  • Büyük dosyalar için işlem uzun sürebilir, sabırlı olun.
+  • İnternet bağlantınızın stabil olduğundan emin olun.
+  • İşlemi iptal etmek için "İptal Et" butonunu kullanın.
+  • Sonuç dosyasında filtreleme yaparak sadece istediğiniz URL'leri görüntüleyebilirsiniz.
