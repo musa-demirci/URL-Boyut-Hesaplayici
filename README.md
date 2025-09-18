@@ -30,7 +30,7 @@ Bu uygulama, Excel (.xlsx) ve WordPress WXR (.xml) dosyalarındaki **URL**'lerin
 
 ## Uygulama Ekran Görüntüsü
 
-
+![app](https://github.com/user-attachments/assets/e526e285-abbf-4709-ace2-6a571182f4f9)
 
 ---
 
